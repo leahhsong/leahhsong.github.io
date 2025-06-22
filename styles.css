@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(240, 208, 253);
+}
+
+h1 {
+  display: block;
+  color: rgb(255, 155, 155);
+  text-align: center;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+.test {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  background-color: antiquewhite;
+  color: rgb(0, 0, 0);
+}
+
+.topnav {
+  background-color: rgba(220, 184, 255, 0.843);
+  padding: 10px;
+  text-align: center;
+}
+
+.topnav a {
+  color: rgb(255, 255, 255);
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: rgb(199, 231, 251);
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

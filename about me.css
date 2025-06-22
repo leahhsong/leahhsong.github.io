@@ -1,0 +1,11 @@
+footer {}
+
+body {
+    background-color: rgb(240, 208, 253);
+}
+
+h1 {
+    display: block;
+    color: rgb(255, 155, 155);
+    text-align: center;
+}

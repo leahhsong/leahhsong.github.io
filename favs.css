@@ -1,0 +1,29 @@
+ul {
+	list-style-type: circle;
+}
+h1 {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 24px;
+	color: #644a4a;
+}
+.test {
+	background-color: rgb(238, 185, 204);
+	padding: 20px;
+	border-radius: 10px;
+	margin: 20px auto;
+	width: 80%;
+	box-shadow: 0 4px 8px rgba(137, 129, 129, 0.2);
+	text-align: center;
+}
+footer {
+	background-color: #694242;
+	color: white;
+	padding: 10px;
+	text-align: center;
+	position: center;
+	bottom: 0;
+	width: 100%;
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;	
+
+} 
