@@ -17,15 +17,7 @@ h1 {
   color: rgb(255, 155, 155);
   text-align: center;
 }
-
-footer {
-  background-color: #452f2f;
-  color: white;
-  padding: 10px;
-  text-align: center;
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  font-family: 'Arial', sans-serif;
-  font-size: 14px;
-}
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+} 
