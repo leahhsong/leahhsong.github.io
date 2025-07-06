@@ -1,5 +1,7 @@
 body {
   background-color: rgb(240, 208, 253);
+  height: 100%;
+  padding-bottom: 50px;
 }
 
 h1 {
@@ -38,15 +40,6 @@ footer {
   padding: 10px;
   position: fixed;
   bottom: 0;
+  height: 50px;
   width: 100%;
-}
-
-img {
-  display: block;
-  margin: 0 auto 40px;
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: 0 5px 15px rgba(185, 48, 17, 0.5);
 }
